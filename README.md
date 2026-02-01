@@ -1,1 +1,1 @@
-# [Capstone Project (PDF)](https://raw.githubusercontent.com/andremanns/Google-Data-Analysis-Capstone-Project/main/report_cyclistic_trips_final_andre_manns.pdf)
+# [Capstone Project (PDF)](https://raw.githubusercontent.com/andremanns/Google-Data-Analysis-Capstone-Project/main/report_cyclistic_trips_final_andre_manns.pdf?download=1)
